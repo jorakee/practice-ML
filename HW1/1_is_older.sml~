@@ -16,6 +16,5 @@ It evaluates to true if the first argument is a date that comes before the secon
 	  then false
 	  else false
 	
-		   (*note: (x,y,z)= (year,month,date)*)
-(*Ans:val test1 = is_older ((1,2,3),(2,3,4)) = true *)
+	(*note: (x,y,z)= (year,month,date)*)	   
 				    
